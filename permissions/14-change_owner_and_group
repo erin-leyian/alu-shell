@@ -1,3 +1,2 @@
 #!/bin/bash
 for item in *; do if [ -e "$item" ]; then chown vincent:staff "$item"; ls -ld "$item" | awk '{print $3, $4}'; fi; done
-
