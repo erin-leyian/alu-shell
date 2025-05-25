@@ -1,3 +1,2 @@
 #!/bin/bash
 for item in *; do chown vincent:staff "$item"; done
-
