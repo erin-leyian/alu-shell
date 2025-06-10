@@ -1,2 +1,2 @@
-# alu-shell
-This is a README file
+#!/bin/bash
+This is a README fie
