@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -c | awk '$1 == 1 { print $2 }' |sort
+sort | uniq -c | grep -E '^ *1 ' | cut -d' ' -f3 | sort
