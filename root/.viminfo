@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1749817553,,"wq"
+|2,0,1749820936,,"wq"
 :wq 
 |2,0,1749586473,,"wq "
 :WQ
@@ -61,32 +61,40 @@ $
 |3,1,36,0,1,0,1749577670,"l"
 
 # File marks:
-'0  37  0  /create_environment.sh
-|4,48,37,0,1749817553,"/create_environment.sh"
-'1  33  9  /create_environment.sh
-|4,49,33,9,1749816926,"/create_environment.sh"
+'0  1  10  ~/testing
+|4,48,1,10,1749820936,"~/testing"
+'1  37  0  /create_environment.sh
+|4,49,37,0,1749817553,"/create_environment.sh"
 '2  33  9  /create_environment.sh
 |4,50,33,9,1749816926,"/create_environment.sh"
-'3  78  40  /create_environment.sh
-|4,51,78,40,1749816151,"/create_environment.sh"
+'3  33  9  /create_environment.sh
+|4,51,33,9,1749816926,"/create_environment.sh"
 '4  78  40  /create_environment.sh
 |4,52,78,40,1749816151,"/create_environment.sh"
 '5  78  40  /create_environment.sh
 |4,53,78,40,1749816151,"/create_environment.sh"
 '6  78  40  /create_environment.sh
 |4,54,78,40,1749816151,"/create_environment.sh"
-'7  78  41  /create_environment.sh
-|4,55,78,41,1749816034,"/create_environment.sh"
+'7  78  40  /create_environment.sh
+|4,55,78,40,1749816151,"/create_environment.sh"
 '8  78  41  /create_environment.sh
 |4,56,78,41,1749816034,"/create_environment.sh"
 '9  78  41  /create_environment.sh
 |4,57,78,41,1749816034,"/create_environment.sh"
 
 # Jumplist (newest first):
+-'  1  10  ~/testing
+|4,39,1,10,1749820936,"~/testing"
+-'  37  0  /create_environment.sh
+|4,39,37,0,1749817553,"/create_environment.sh"
 -'  37  0  /create_environment.sh
 |4,39,37,0,1749817553,"/create_environment.sh"
 -'  33  9  /create_environment.sh
 |4,39,33,9,1749817189,"/create_environment.sh"
+-'  33  9  /create_environment.sh
+|4,39,33,9,1749817189,"/create_environment.sh"
+-'  33  9  /create_environment.sh
+|4,39,33,9,1749816926,"/create_environment.sh"
 -'  33  9  /create_environment.sh
 |4,39,33,9,1749816926,"/create_environment.sh"
 -'  78  40  /create_environment.sh
@@ -94,7 +102,15 @@ $
 -'  78  40  /create_environment.sh
 |4,39,78,40,1749816354,"/create_environment.sh"
 -'  78  40  /create_environment.sh
+|4,39,78,40,1749816354,"/create_environment.sh"
+-'  78  40  /create_environment.sh
+|4,39,78,40,1749816354,"/create_environment.sh"
+-'  78  40  /create_environment.sh
 |4,39,78,40,1749816151,"/create_environment.sh"
+-'  78  40  /create_environment.sh
+|4,39,78,40,1749816151,"/create_environment.sh"
+-'  78  41  /create_environment.sh
+|4,39,78,41,1749816034,"/create_environment.sh"
 -'  78  41  /create_environment.sh
 |4,39,78,41,1749816034,"/create_environment.sh"
 -'  72  25  /create_environment.sh
@@ -105,6 +121,14 @@ $
 |4,39,72,25,1749815640,"/create_environment.sh"
 -'  72  25  /create_environment.sh
 |4,39,72,25,1749815640,"/create_environment.sh"
+-'  72  25  /create_environment.sh
+|4,39,72,25,1749815640,"/create_environment.sh"
+-'  72  25  /create_environment.sh
+|4,39,72,25,1749815640,"/create_environment.sh"
+-'  72  25  /create_environment.sh
+|4,39,72,25,1749815640,"/create_environment.sh"
+-'  72  25  /create_environment.sh
+|4,39,72,25,1749815640,"/create_environment.sh"
 -'  71  25  /create_environment.sh
 |4,39,71,25,1749815567,"/create_environment.sh"
 -'  71  25  /create_environment.sh
@@ -113,6 +137,30 @@ $
 |4,39,71,25,1749815567,"/create_environment.sh"
 -'  71  25  /create_environment.sh
 |4,39,71,25,1749815567,"/create_environment.sh"
+-'  71  25  /create_environment.sh
+|4,39,71,25,1749815567,"/create_environment.sh"
+-'  71  25  /create_environment.sh
+|4,39,71,25,1749815567,"/create_environment.sh"
+-'  71  25  /create_environment.sh
+|4,39,71,25,1749815567,"/create_environment.sh"
+-'  71  25  /create_environment.sh
+|4,39,71,25,1749815567,"/create_environment.sh"
+-'  75  10  /create_environment.sh
+|4,39,75,10,1749815325,"/create_environment.sh"
+-'  74  10  /create_environment.sh
+|4,39,74,10,1749815325,"/create_environment.sh"
+-'  75  10  /create_environment.sh
+|4,39,75,10,1749815325,"/create_environment.sh"
+-'  74  10  /create_environment.sh
+|4,39,74,10,1749815325,"/create_environment.sh"
+-'  75  10  /create_environment.sh
+|4,39,75,10,1749815325,"/create_environment.sh"
+-'  74  10  /create_environment.sh
+|4,39,74,10,1749815325,"/create_environment.sh"
+-'  75  10  /create_environment.sh
+|4,39,75,10,1749815325,"/create_environment.sh"
+-'  74  10  /create_environment.sh
+|4,39,74,10,1749815325,"/create_environment.sh"
 -'  75  10  /create_environment.sh
 |4,39,75,10,1749815325,"/create_environment.sh"
 -'  74  10  /create_environment.sh
@@ -131,6 +179,18 @@ $
 |4,39,74,10,1749815325,"/create_environment.sh"
 -'  74  10  /create_environment.sh
 |4,39,74,10,1749815055,"/create_environment.sh"
+-'  74  10  /create_environment.sh
+|4,39,74,10,1749815055,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749815031,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749815031,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749815031,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749815031,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749815031,"/create_environment.sh"
 -'  77  28  /create_environment.sh
 |4,39,77,28,1749815031,"/create_environment.sh"
 -'  77  28  /create_environment.sh
@@ -143,6 +203,10 @@ $
 |4,39,77,28,1749815031,"/create_environment.sh"
 -'  77  28  /create_environment.sh
 |4,39,77,28,1749814969,"/create_environment.sh"
+-'  77  28  /create_environment.sh
+|4,39,77,28,1749814969,"/create_environment.sh"
+-'  77  29  /create_environment.sh
+|4,39,77,29,1749814642,"/create_environment.sh"
 -'  77  29  /create_environment.sh
 |4,39,77,29,1749814642,"/create_environment.sh"
 -'  1  0  /create_environment.sh
@@ -161,86 +225,22 @@ $
 |4,39,1,0,1749807682,"/create_environment.sh"
 -'  1  0  /create_environment.sh
 |4,39,1,0,1749807682,"/create_environment.sh"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
--'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
-|4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
+-'  1  0  /create_environment.sh
+|4,39,1,0,1749807682,"/create_environment.sh"
 -'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
 |4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
 -'  2  101  /alu-shell/io_redirections_and_filters/26-the_biggest_fan
@@ -285,6 +285,13 @@ $
 |4,39,2,101,1749598396,"/alu-shell/io_redirections_and_filters/26-the_biggest_fan"
 
 # History of marks within files (newest to oldest):
+
+> ~/testing
+	*	1749820934	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > /create_environment.sh
 	*	1749817551	0
@@ -1095,11 +1102,3 @@ $
 > ~/alu-zero_day/git/bash/s
 	*	1747735316	0
 	"	1	0
-
-> ~/.gitconfig
-	*	1747734460	0
-	"	4	0
-	^	4	0
-	.	3	23
-	+	2	31
-	+	3	23
