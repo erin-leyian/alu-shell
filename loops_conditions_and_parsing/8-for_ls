@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # This script lists files/directories showing only the part after the first dash
 
-for file in *; do
-  if [[ "$file" == *-* ]]; then
-    echo "${file#*-}"
-  fi
+CONTENTLIST="$(ls -1)"
+for FILE in $CONTENTLIST; do
+	echo "$FILE" | cut -d "-" -f 2
 done
