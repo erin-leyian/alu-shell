@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #This is a comment
 num=1
-while [ "$num" -le 10 ]
+while [ "$num" -le 20 ]
 do
   case "$num" in
     4)
