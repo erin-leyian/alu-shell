@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #comment
-hour = 0
+hour=0
 while [ "$hour" -le 12 ]
 do
-	minute = 1
+	minute=1
 	while [ "$minute" -le 59 ]
 	do
 		echo "$hour":"$minute"
