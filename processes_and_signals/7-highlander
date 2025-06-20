@@ -1,0 +1,13 @@
+#!/usr/bin/env bash 
+#comment
+
+START=0
+END=1
+
+trap 'echo "I am invincible!!!"' SIGTERM
+
+while [ $START -lt $END ];
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
